@@ -2,6 +2,7 @@
 <br>
 <p>Spectra Lab is the first Android powered app that allows you collect spectroscopic data from Ocean Optics™ spectrometers with the push of a button.</p>
 
+<p>
 SpectraLab can take
 <ul>
   <li>Absorbance</li>
@@ -10,6 +11,7 @@ SpectraLab can take
   <li>Raw Count</li>
 </ul>
 measurements in seconds. 
+</p>
 
 <p>Use pinch and zoom gestures to view spectral signals in greater detail. Adjust integration times, number of averages, and even correct for nonlinearity.  All acquisition data is saved directly to your tablet's file system using standard text files. Send your data files to students, teachers, scientists, or engineers via email from out in the field or, simply drag and drop your files to an SD card for further analysis
 </p>
