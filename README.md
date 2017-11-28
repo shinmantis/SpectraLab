@@ -1,9 +1,10 @@
 # Spectra Lab
 <br>
+<p><img src="https://lh6.ggpht.com/6-4k8xjuo-pU7aei7VyYCsMX7tSQkxAs_kQd49KK5RSBhSWQ9Sm-i79pD1ocy1HgRo-S=w300-rw" width="192" height="192" alt="Spectra Lab" /></p>
 <p>Spectra Lab is the first Android powered app that allows you collect spectroscopic data from Ocean Optics™ spectrometers with the push of a button.</p>
 
 <p>
-SpectraLab can take
+SpectraLab can perform,
 <ul>
   <li>Absorbance</li>
   <li>%Transmission</li>
