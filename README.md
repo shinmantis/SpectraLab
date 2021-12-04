@@ -56,5 +56,5 @@ https://play.google.com/store/apps/details?id=mcs.SpectraLab&hl=en
 <p>Keywords: Ocean Optics, Spectroscopy, UV-VIS, Spectrometer, Photonics, Real-Time, Spectra, Spectral, Photons, Light, Absorbance, Transmission, Reflectance, Fluorescence, Counts, Spectrum, Visible, Ultraviolet</p>
 
     
-    # Privacy Policy
-    <p>The Spectra Lab app does not collect, sell or leverage <b>ANY</b> user information at anytime </p>
+# Privacy Policy
+<p>The Spectra Lab app does not collect, sell or leverage <b>ANY</b> user information at anytime </p>
